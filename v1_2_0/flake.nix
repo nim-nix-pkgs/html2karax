@@ -11,6 +11,7 @@
   inputs.src-html2karax-v1_2_0.ref   = "refs/tags/v1.2.0";
   inputs.src-html2karax-v1_2_0.owner = "nim-lang-cn";
   inputs.src-html2karax-v1_2_0.repo  = "html2karax";
+  inputs.src-html2karax-v1_2_0.dir   = "";
   inputs.src-html2karax-v1_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

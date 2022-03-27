@@ -11,6 +11,7 @@
   inputs.src-html2karax-master.ref   = "refs/heads/master";
   inputs.src-html2karax-master.owner = "nim-lang-cn";
   inputs.src-html2karax-master.repo  = "html2karax";
+  inputs.src-html2karax-master.dir   = "";
   inputs.src-html2karax-master.type  = "github";
   
   inputs."karax".owner = "nim-nix-pkgs";
