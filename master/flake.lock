@@ -213,11 +213,11 @@
       },
       "locked": {
         "dir": "1_2_2",
-        "lastModified": 1669432156,
-        "narHash": "sha256-2OrbQZ/X2JUDfBjzWE4JMU/yIUanfqEAWHc1xIpliLY=",
+        "lastModified": 1669438935,
+        "narHash": "sha256-DskkgYn1J+cw3kYiO1XajYagHFQBnAzmIukgWagz7kc=",
         "owner": "nim-nix-pkgs",
         "repo": "karax",
-        "rev": "20d21cfed0c7cfc196790a68a7ae7b811ef906cd",
+        "rev": "922338340862e040effca28fe9daffd71bfd6509",
         "type": "github"
       },
       "original": {
